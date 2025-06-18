@@ -17,6 +17,8 @@ Entamoeba dispar представляет собой непатогенный п
 
 [ZDNAbert](https://colab.research.google.com/drive/118Q4i7p5m5FJL1jIN2PFrjxFFsMu5XCx?usp=sharing)
 
+[hmmer](https://colab.research.google.com/drive/1NMo3VpEzWhw-y2pgcrpS1iPQGqdh7mWX?usp=sharing)
+
 ## Гена найденные с помощью HMMER, соответствующие приведённым семействам(полная таблица в data/hmmer.csv):
 
 |Проверяемое семейство|Название гена|
